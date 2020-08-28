@@ -1,7 +1,4 @@
 data from github
-some more data
-some more data
-some more data
 some data
 some data
 some data
